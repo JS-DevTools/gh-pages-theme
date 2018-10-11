@@ -1,0 +1,17 @@
+logo: https://jsdevtools.org/img/logos/logo.png
+
+author:
+  twitter: JS_DevTools
+
+twitter:
+  username: JS_DevTools
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://jsdevtools.org/img/logos/card.png
+
+plugins:
+  - jekyll-sitemap
