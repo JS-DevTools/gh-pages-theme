@@ -13,3 +13,5 @@ This is the [GitHub Pages](https://pages.github.com/) theme for the JavaScript D
 * [browserify-banner](https://jsdevtools.org/browserify-banner/)
 * [version-bump-prompt](https://jsdevtools.org/version-bump-prompt/)
 * [karma-host-environment](https://jsdevtools.org/karma-host-environment/)
+* [ez-spawn](https://jsdevtools.org/ez-spawn/)
+* [chai-exec](https://jsdevtools.org/chai-exec/)
