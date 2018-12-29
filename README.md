@@ -10,6 +10,7 @@ This is the [GitHub Pages](https://pages.github.com/) theme for the JavaScript D
 * [sourcemapify](https://jsdevtools.org/sourcemapify/)
 * [readdir-enhanced](https://jsdevtools.org/readdir-enhanced/)
 * [eslint-config-modular](https://jsdevtools.org/eslint-config-modular/)
+* [tslint-modular](https://jsdevtools.org/tslint-modular/)
 * [browserify-banner](https://jsdevtools.org/browserify-banner/)
 * [version-bump-prompt](https://jsdevtools.org/version-bump-prompt/)
 * [karma-host-environment](https://jsdevtools.org/karma-host-environment/)
