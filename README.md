@@ -13,9 +13,17 @@ This is the [GitHub Pages](https://pages.github.com/) theme for the JavaScript D
 * [tslint-modular](https://jstools.dev/tslint-modular/)
 * [browserify-banner](https://jstools.dev/browserify-banner/)
 * [version-bump-prompt](https://jstools.dev/version-bump-prompt/)
+* [karma-config](https://jstools.dev/karma-config/)
+* [host-environment](https://jstools.dev/host-environment/)
 * [karma-host-environment](https://jstools.dev/karma-host-environment/)
 * [ez-spawn](https://jstools.dev/ez-spawn/)
 * [chai-exec](https://jstools.dev/chai-exec/)
+* [file-path-filter](https://jstools.dev/file-path-filter/)
+* [rehype-toc](https://jstools.dev/rehype-toc/)
+* [rehype-inline-svg](https://jstools.dev/rehype-inline-svg/)
+* [rehype-url-inspector](https://jstools.dev/rehype-url-inspector/)
+* [coverage-istanbul-loader](https://jstools.dev/coverage-istanbul-loader/)
+* [template-node-typescript](https://jstools.dev/template-node-typescript/)
 
 
 
