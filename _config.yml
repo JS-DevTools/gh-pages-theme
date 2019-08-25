@@ -13,7 +13,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://jsdevtools.org/img/logos/card.png
+      image: https://jstools.dev/img/logos/card.png
 
 plugins:
   - jekyll-sitemap

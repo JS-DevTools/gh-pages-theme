@@ -1,18 +1,20 @@
-GitHub Pages theme for jsdevtools.org
+GitHub Pages theme for jstools.dev
 =======================================
 This is the [GitHub Pages](https://pages.github.com/) theme for the JavaScript Dev Tools projects.
 
 ## Examples
-* [ono](https://jsdevtools.org/ono/)
-* [static-mock-data](https://jsdevtools.org/static-mock-data/)
-* [globify](https://jsdevtools.org/globify/)
-* [simplifyify](https://jsdevtools.org/simplifyify/)
-* [sourcemapify](https://jsdevtools.org/sourcemapify/)
-* [readdir-enhanced](https://jsdevtools.org/readdir-enhanced/)
-* [eslint-config-modular](https://jsdevtools.org/eslint-config-modular/)
-* [tslint-modular](https://jsdevtools.org/tslint-modular/)
-* [browserify-banner](https://jsdevtools.org/browserify-banner/)
-* [version-bump-prompt](https://jsdevtools.org/version-bump-prompt/)
-* [karma-host-environment](https://jsdevtools.org/karma-host-environment/)
-* [ez-spawn](https://jsdevtools.org/ez-spawn/)
-* [chai-exec](https://jsdevtools.org/chai-exec/)
+* [ono](https://jstools.dev/ono/)
+* [static-mock-data](https://jstools.dev/static-mock-data/)
+* [globify](https://jstools.dev/globify/)
+* [simplifyify](https://jstools.dev/simplifyify/)
+* [sourcemapify](https://jstools.dev/sourcemapify/)
+* [readdir-enhanced](https://jstools.dev/readdir-enhanced/)
+* [eslint-config-modular](https://jstools.dev/eslint-config-modular/)
+* [tslint-modular](https://jstools.dev/tslint-modular/)
+* [browserify-banner](https://jstools.dev/browserify-banner/)
+* [version-bump-prompt](https://jstools.dev/version-bump-prompt/)
+* [karma-host-environment](https://jstools.dev/karma-host-environment/)
+* [ez-spawn](https://jstools.dev/ez-spawn/)
+* [chai-exec](https://jstools.dev/chai-exec/)
+
+
